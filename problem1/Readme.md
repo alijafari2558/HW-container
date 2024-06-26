@@ -40,12 +40,7 @@ This project demonstrates various network topologies using Linux network namespa
 
 Two approaches are discussed:
 
-1. **Using VXLAN**:
-   - Creates an overlay network using VXLAN
-   - Allows communication between namespaces on different servers
-   - Provides better scalability and isolation
-
-2. **Using Bridged Networking**:
+1. **Using Bridged Networking**:
    - Connects servers at Layer 2 using a physical or virtual switch
    - Simpler to implement but has limitations in scalability and isolation
 
