@@ -12,7 +12,7 @@ This project implements a simple HTTP server with Docker containerization. The s
 
 ## Prerequisites
 
-- Python 3.9+
+- Python 
 - Docker
 
 ## File Structure
